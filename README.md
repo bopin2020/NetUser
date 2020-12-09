@@ -2,7 +2,7 @@
 
 This tool achieves "net user" in Window API. I made this to be used with [Cobalt Strike's execute-assembly](https://blog.cobaltstrike.com/2018/04/09/cobalt-strike-3-11-the-snake-that-eats-its-tail/)
 
-![image-20201209142127990](README.assets/image-20201209142127990.png)
+![image-20201209142127990](https://github.com/bopin2020/NetUser/tree/main/NetUser/image-20201209142127990.png)
 
 Compiled with .NET 3.0 (Windows Vista's default)+. Needs to be run as admin levels.
 
@@ -33,7 +33,7 @@ Thanks for:
 
 ## Download
 
-Compiled Version HERE
+Compiled Version [HERE](https://github.com/bopin2020/NetUser/tree/main/NetUser/NetUser.exe)
 
 
 
